@@ -1,0 +1,14 @@
+{
+  "name": "catalogo",
+  "version": "1.0.0",
+  "description": "Microsserviço de Catálogo - Aula 07 Web Services",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
